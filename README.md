@@ -98,9 +98,10 @@ Coming Soon: Speech-to-text input support
     Offline mode
 
 👥 Contributors
+
 Udhaya Sankari
-B.Tech CSE – Amrita Vishwa Vidyapeetham
-Project Developer & Designer
+| B.Tech CSE – Amrita Vishwa Vidyapeetham
+| Project Developer & Designer
 
 
 
