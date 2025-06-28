@@ -76,15 +76,24 @@ Text-to-Speech: gTTS converts content to audio
 
 Coming Soon: Speech-to-text input support
 
-## 🌍 Multilingual Support
+### 🌍 Supported Languages
 
-| Language | Status         | Engine Used |
-|----------|----------------|-------------|
-| English  | ✅ Available  | gTTS         |
-| Hindi    | ✅ Available  | gTTS         |
-| Tamil    | ⏳ Planned    | gTTS         |
-| Telugu   | ⏳ Planned    | gTTS         |
+The AI Rajasthan Tourism Guide currently supports **10 Indian languages**, making travel information accessible across regional boundaries:
 
+| Language     | Code |
+|--------------|------|
+| English      | en   |
+| Hindi        | hi   |
+| Tamil        | ta   |
+| Telugu       | te   |
+| Kannada      | kn   |
+| Bengali      | bn   |
+| Gujarati     | gu   |
+| Marathi      | mr   |
+| Malayalam    | ml   |
+| Punjabi      | pa   |
+
+The language can be selected at runtime via a simple prompt in the terminal. 🔄
 
 🚀 Future Scope
     Google Maps integration
