@@ -1,0 +1,14 @@
+{
+  "jaipur": {
+    "english": "Jaipur, known as the Pink City, is famous for Hawa Mahal, Amber Fort, and traditional Rajasthani cuisine like Dal Baati Churma.",
+    "hindi": "जयपुर, जिसे गुलाबी शहर कहा जाता है, हवा महल, आमेर किला और दाल बाटी चूरमा जैसे व्यंजन के लिए प्रसिद्ध है।"
+  },
+  "udaipur": {
+    "english": "Udaipur, the City of Lakes, features grand palaces and scenic boat rides on Lake Pichola.",
+    "hindi": "उदयपुर, झीलों का शहर, झील पिछोला पर नाव की सवारी और शानदार महलों के लिए जाना जाता है।"
+  },
+  "jodhpur": {
+    "english": "Jodhpur is known for its blue-painted houses, Mehrangarh Fort, and Marwari cuisine.",
+    "hindi": "जोधपुर अपनी नीली-painted इमारतों, मेहरानगढ़ किले और मारवाड़ी व्यंजनों के लिए प्रसिद्ध है।"
+  }
+}
